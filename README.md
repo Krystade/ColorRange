@@ -10,7 +10,7 @@ A small program to test out Processing 3 for Java. Can show you any combination 
 *Drag the slider the see how adding red, green, or blue would change the gradient
 
 # To Run
-Simply download all the files from the branch corresponding to your operating system and run the ColorRange.exe
+Simply download all the files from the branch corresponding to your operating system (main is for Windows 64) and run the ColorRange.exe
 
 ### Example
 
